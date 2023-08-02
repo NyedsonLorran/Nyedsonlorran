@@ -1,4 +1,9 @@
-![IMG_20220719_021918](https://github.com/NyedsonLorran/Nyedsonlorran/assets/105567534/634bb931-1ca7-4a95-a103-838a079ca829)
+<div align="center">
+<img src="https://github.com/NyedsonLorran/Nyedsonlorran/assets/105567534/634bb931-1ca7-4a95-a103-838a079ca829" width="700px" />
+</div>
+
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6n7cn18l2trc0t63r60lh39f0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=6n7cn18l2trc0t63r60lh39f0&redirect=true)
 
