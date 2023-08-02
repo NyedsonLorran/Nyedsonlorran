@@ -2,8 +2,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyedsonlorran&bg_color=0a0c10&color=ffffff&line=f5f5f5&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ ## 
 <div align="center"> 
 <a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%#00f721?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  
 <ahref="https://www.youtube.com/@nyedsonlorranoficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-%#00f721?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    
 <a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%#00f721?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> 
 </div>
+  
