@@ -9,10 +9,5 @@
 
  ## 
  
-<div align="center">
-<ahref="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%#00f721?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<ahref="https://www.youtube.com/@nyedsonlorranoficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-%#00f721?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<ahref="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%#00f721?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
-</div>
-  
+
   
