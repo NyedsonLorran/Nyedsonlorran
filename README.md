@@ -3,7 +3,7 @@
 </div>
 
 
-                                                 EM PROCESSO CRIATIVOVAMOS COMO CALMAAAAAA
+                                                 EM PROCESSO CRIATIVO VAMOS COMO CALMAAAAAA
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6n7cn18l2trc0t63r60lh39f0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
