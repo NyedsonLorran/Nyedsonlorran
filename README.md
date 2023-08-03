@@ -9,7 +9,7 @@
  
 
 <div align="center"> 
-<a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%DF0174?style=for-the-badge&logo=instagram&logoColor=black&nameColor=black"></a>
+<a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%DF0174?style=for-the-badge&logo=instagram&logoColor=black&name=black"></a>
 <a href = "mailto:nyedsonlorranoficial@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%DF0174?style=for-the-badge&logo=gmail&logoColor=black" target="_blank" ></a>
 <a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%DF0174?style=for-the-badge&logo=linkedin&logoColor=black" style="border-radius: 30px" target="_blank"></a> 
 </div>
