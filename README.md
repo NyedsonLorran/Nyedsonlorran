@@ -18,7 +18,7 @@
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyedsonlorran&hide_border=true&title_color=00ffff&icon_color=fffaf0&text_color=c9d1d9&bg_color=0d1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nyesonlorran&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=fffaf0&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Neto github stats" />  --> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?access_token=<nzfQTESmtKh3cuubzl7lAHNr&username=1luizneto&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?access_token=<nzfQTESmtKh3cuubzl7lAHNr&username=nyesonlorran&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
 </div>
 
 <div align="center"> 
