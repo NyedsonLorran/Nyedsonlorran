@@ -6,20 +6,8 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyedsonlorran&bg_color=0d1117&color=ffffffff&line=ffffff&point=00ff4c&area=true&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- ## 
 
-
-
-
-<div align="center">  
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?access_token=<nzfQTESmtKh3cuubzl7lAHNr&username=nyedsonlorran&hide_border=true&title_color=00ffff&icon_color=fffaf0&text_color=c9d1d9&bg_color=0d1117&layout=compact"  alt="Luiz Neto github stats" />
-
-  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyedsonlorran&hide_border=true&title_color=00ffff&icon_color=fffaf0&text_color=c9d1d9&bg_color=0d1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nyesonlorran&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=fffaf0&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Neto github stats" />  --> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?access_token=<nzfQTESmtKh3cuubzl7lAHNr&username=nyesonlorran&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&langs_count=8"/>
-</div>
+## 
 
 <div align="center"> 
 <a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%DF0174?style=for-the-badge&logo=instagram&logoColor=white"></a>
