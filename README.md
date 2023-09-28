@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://github.com/NyedsonLorran/Nyedsonlorran/assets/105567534/634bb931-1ca7-4a95-a103-838a079ca829" width="500px" />
+<img src="https://github.com/NyedsonLorran/Nyedsonlorran/assets/105567534/41b97429-4bef-4cb4-a7ce-4d638c7962fd" width="500px" />
 </div>
-
 
 
 
