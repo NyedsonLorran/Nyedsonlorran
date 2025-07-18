@@ -49,3 +49,4 @@
 <a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "https://open.spotify.com/user/6n7cn18l2trc0t63r60lh39f0"> <img src="https://img.shields.io/badge/Spotify-616161?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>
 </div>
+
