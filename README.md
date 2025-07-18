@@ -3,7 +3,7 @@
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/0f8edce0-03ed-4ecb-b048-a5d50b7041fa" />
 </div>
 
-<a>
+<a align="left">
 Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyedsonlorran&bg_color=0d1117&color=ffffffff&line=ffffff&point=00ff4c&area=true&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
