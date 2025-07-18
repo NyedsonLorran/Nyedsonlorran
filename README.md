@@ -16,7 +16,7 @@
 ###
 
 <div align="right"  height="200" >
-<p align="left"> Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. </p>
+<p align="left"> Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. </p>
 </div>
 
 
