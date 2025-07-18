@@ -45,15 +45,12 @@
 ###
 
 <div align="center"> 
-<a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%DF0174?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:nyedsonlorranoficial@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%DF0174?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%DF0174?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "https://open.spotify.com/user/6n7cn18l2trc0t63r60lh39f0"> <img src="https://img.shields.io/badge/Spotify-%DF0174?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>
+<a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%616161?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:nyedsonlorranoficial@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%616161?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%616161?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "https://open.spotify.com/user/6n7cn18l2trc0t63r60lh39f0"> <img src="https://img.shields.io/badge/Spotify-%616161?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nyedsonlorran/nyedsonlorran/output/snake.svg" alt="Snake animation" />
 
