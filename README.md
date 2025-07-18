@@ -1,8 +1,5 @@
-<div align="center">
-<img src="https://github.com/NyedsonLorran/Nyedsonlorran/assets/105567534/333f9cd9-8761-4e5f-bcb6-56090434738f" width="500px" />
-</div>
 
-<div align="center">
+<div align="left">
 <img width="328" height="329" alt="Image" src="https://github.com/user-attachments/assets/0f8edce0-03ed-4ecb-b048-a5d50b7041fa" />
 </div>
 
