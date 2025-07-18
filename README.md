@@ -46,5 +46,6 @@ Estudante de Engenharia da Computação (6º período), busco minha primeira opo
 ###
 
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/nyedsonlorran/nyedsonlorran/output/snake.svg" alt="Snake animation" />
 
