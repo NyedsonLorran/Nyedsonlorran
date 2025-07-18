@@ -1,6 +1,6 @@
 
 <div align="left">
-<img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/0f8edce0-03ed-4ecb-b048-a5d50b7041fa" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/0f8edce0-03ed-4ecb-b048-a5d50b7041fa" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyedsonlorran&bg_color=0d1117&color=ffffffff&line=ffffff&point=00ff4c&area=true&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
