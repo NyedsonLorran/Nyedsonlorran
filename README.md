@@ -1,8 +1,4 @@
 
-<div align="left">
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/87d492ba-3e39-4862-bcb4-a37bdf8cc96f"
-</div>
-
 <a align="left">
 Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. </a>
 
