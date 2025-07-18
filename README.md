@@ -2,6 +2,10 @@
 <img src="https://github.com/NyedsonLorran/Nyedsonlorran/assets/105567534/333f9cd9-8761-4e5f-bcb6-56090434738f" width="500px" />
 </div>
 
+<div align="center">
+<img width="328" height="329" alt="Image" src="https://github.com/user-attachments/assets/0f8edce0-03ed-4ecb-b048-a5d50b7041fa" />
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyedsonlorran&bg_color=0d1117&color=ffffffff&line=ffffff&point=00ff4c&area=true&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 
