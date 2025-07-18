@@ -2,8 +2,7 @@
 
 ###
 
-| <img height="200" src="https://github.com/user-attachments/assets/af4f0f49-416f-4e6d-a2bc-28fc2b7c019d" /> | Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidade de estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. |
-| --- | --- |
+<img height="200" src="https://github.com/user-attachments/assets/af4f0f49-416f-4e6d-a2bc-28fc2b7c019d" />  Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidade de estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos. 
 
 ###
 
