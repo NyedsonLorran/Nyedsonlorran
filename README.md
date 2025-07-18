@@ -1,20 +1,15 @@
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/87d492ba-3e39-4862-bcb4-a37bdf8cc96f"/>
-</div>
+<h1 align="center">NYEDSON LORRAN</h1>
 
 ###
 
-<h1 align="center">NYEDSON LORRAN</h1>
+<br clear="both">
+
+<img align="left" height="100" src="https://github.com/user-attachments/assets/87d492ba-3e39-4862-bcb4-a37bdf8cc96f"  />
 
 ###
 
 <p align="left">Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidadede estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos.</p>
 
-###
-****
 ###
 
 <div align="left">
