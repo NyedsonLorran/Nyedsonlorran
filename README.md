@@ -20,7 +20,6 @@
 </div>
 
 <br>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="33" alt="c logo" />
