@@ -1,17 +1,11 @@
-<h1 align="center">Nyedson Lorran</h1>
+<h1 align="center">NyedsonLorran</h1>
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <img height="200" src="https://github.com/user-attachments/assets/af4f0f49-416f-4e6d-a2bc-28fc2b7c019d" />
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <p>Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidade de estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos.</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start;">
+  <img height="200" src="https://github.com/user-attachments/assets/af4f0f49-416f-4e6d-a2bc-28fc2b7c019d" />
+  <p style="margin-left: 20px;">Estudante de Engenharia da Computação (6º período), busco minha primeira oportunidade de estágio na área de tecnologia. Tenho conhecimentos sólidos em linguagens de programação, lógica computacional e desenvolvimento web, além de vivência prática em rotinas de backoffice e acompanhamento de projetos.</p>
+</div>
 
 ###
 
@@ -53,5 +47,5 @@
 <a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-616161?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:nyedsonlorranoficial@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-616161?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://open.spotify.com/user/6n7cn18l2trc0t63r60lh39f0" target="_blank"> <img src="https://img.shields.io/badge/Spotify-616161?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>
+<a href = "https://open.spotify.com/user/6n7cn18l2trc0t63r60lh39f0"> <img src="https://img.shields.io/badge/Spotify-616161?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" ></a>
 </div>
