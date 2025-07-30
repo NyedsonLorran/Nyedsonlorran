@@ -3,7 +3,7 @@
 ###
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nyedsonlorran/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30" target="_blank"></a>
 <a href="mailto:nyedsonlorranoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-616161?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/nyedsonlorran" target="_blank"><img src="https://img.shields.io/badge/-Instagram-616161?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/6n7cn18l2trc0t63r60lh39f0" target="_blank"><img src="https://img.shields.io/badge/Spotify-616161?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
